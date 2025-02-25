@@ -1,0 +1,651 @@
+.bg-green {
+    background: #19CE65;
+}
+.bg-grey {
+    background: #f1f1f1;
+}
+.bg-grey-light {
+    background: #fafafa;
+}
+.br-15 {
+    border-radius: 15px;
+}
+
+.br-22 {
+    border-radius: 22px;
+}
+
+@media only screen and (max-width:767.98px) {
+
+    .br-22 {
+        border-radius: 10px;
+    }
+
+    .br-15 {
+        border-radius: 10px;
+    }
+}
+
+
+/* ================ inner banne s ================= */
+
+.treatments-dtls .img-fluid {
+    border-radius: 20px;
+}
+.inner-bannerarea {
+    height: 18.75rem;
+    background-size: cover!important;
+    width: 100%;
+}
+.inner-bannerarea .container {
+    height: 100%;
+}
+.inner-bannerarea .container .row {
+    height: 100%;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+.sub {
+    font-size: 1.125rem;
+    font-weight: 400;
+    font-family: Ubuntu,sans-serif;
+    text-transform: capitalize;
+    color: #19CE65;
+}
+.breadcrumb-wrapper {
+    background: #F1F1F1;
+}
+.breadcrumb-wrapper .breadcrumb {
+    padding: 0.8rem 0;
+    margin-bottom: 0;
+}
+.breadcrumb-wrapper .breadcrumb li {
+    display: inline-block;
+    color: #666;
+}
+.breadcrumb-wrapper .breadcrumb li a {
+    display: inline-block;
+    color: #19CE65;
+    text-decoration: none;
+}
+
+/* ================ inner banne e ================= */
+
+/* ================ vision-mission s ================= */
+
+.our-vision-mission {
+    background: #19CE65;
+    padding: 6.25rem 0;
+    color: #fff !important;
+}
+.our-vision-mission p {
+    color: #fff !important;
+}
+
+/* ================ vision-mission e ================= */
+
+/* ================ Management s ================= */
+
+.sreedhareeyam-our-team {
+    padding: 6.25rem 0;
+}
+.team-wrap {
+    padding: 1.875rem;
+    background: #f1f1f1;
+    border-radius: 15px;
+    text-align: center;
+}
+.team-wrap img {
+    margin-bottom: 1rem;
+    border-radius: 10px;
+    -o-object-fit: cover;
+    object-fit: cover;
+    width: 100%;
+}
+.team-wrap label {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #333;
+    display: block;
+    text-align: center;
+    margin-bottom: 0.4rem;
+}
+    .team-wrap label a {
+        color: #333;
+        text-decoration:none;
+    }
+.team-wrap span {
+    display: block;
+    text-align: center;
+}
+.pagination .page-item.active .page-link {
+    background: #19CE65;
+    border-color: #19CE65;
+    color: #fff;
+}
+
+.pagination .page-link {
+    color: #19CE65;
+}
+/* ================ Management s ================= */
+
+.sreedhareeyam-our-team.bg-grey .team-wrap {
+    padding: unset;
+    background: unset;
+}
+
+/* ================ Management e ================= */
+
+/* ================ achievements s ================= */
+
+.recognition {
+    padding: 6.25rem 0;
+}
+.recognition .logo p {
+    text-align: center;
+    font-weight: 600;
+}
+.recognition .logo img {
+    margin-bottom: 1rem;
+    border-radius: 10px;
+    width: 100%;
+}
+
+/* ================ achievements e ================= */
+
+/* ================ message-of-founder s ================= */
+
+.aboutus.message-of-founder img {
+    border-radius: 22px;
+}
+
+/* ================ message-of-founder e ================= */
+
+/* ================ message-of-founder s ================= */
+
+.aboutus.eye-of-ayurveda img {
+    border-radius: 22px;
+}
+.aboutus.eye-of-ayurveda .common-lists {
+    background: unset;
+}
+.aboutus.eye-of-ayurveda p.bold {
+    font-weight: 700;
+    font-size: 1.125rem;
+}
+
+/* ================ message-of-founder e ================= */
+
+
+/* ================ video s ================= */
+
+.video-section.vdo-inner {
+    background: unset;
+}
+
+/* ================ video e ================= */
+
+
+/* ================ contact s ================= */
+
+.contact-us-area .col-lg-8.contact-form {
+    border: 1px solid #e7e7e7;
+    border-radius: 15px;
+    padding: 2rem;
+}
+.contact-us-area .col-lg-8.contact-form .contact-form {
+    padding-right: unset;
+}
+.contact-us-area .col-lg-4.address .address-items {
+    padding-left: 2rem;
+}
+
+/* ================ contact e ================= */
+
+/* ================ rooms s ================= */
+
+.rooms .room img {
+    border-radius: 10px;
+}
+
+/* ================ roomd e ================= */
+
+/* ================ services s ================= */
+
+.service-single img.img-fluid  {
+    width: 100%;
+}
+.treatments-dtls .common-lists {
+    background: unset;
+}
+/* ================ services e ================= */
+
+
+/* ================ docters s ================= */
+
+.team-wrap .btn--secondary {
+    width: 100%;
+}
+.doctors-innerpage {
+    padding: 6.25rem 0;
+    background: #fff!important;
+}
+.doctors-innerpage .formsearch input {
+    background: #f1f1f1;
+}
+.doctors-innerpage .formsearch .btn i {
+    color: #333;
+}
+.doctors-innerpage .team-wrap {
+    margin-bottom: 1.6rem;
+}
+.doctor-main-coat hr {
+    border-top: 1px solid #a9a9a9;
+}
+.doctor-main-coat h4{
+    color: #18c460;
+    font-size: 1.2rem;
+}
+.doctor-main-coat{
+    padding: 1.6rem;
+    border: 1px solid #efefef;
+    border-radius: 10px;
+}
+.doctors-filter{
+    padding: 1rem;
+    border: 1px solid #f1f1f1;
+    border-radius: 10px;
+    height: 100%;
+}
+.doctors-filter h4{
+    margin-bottom: 1rem;
+}
+.list-group li{
+    border: none;
+    padding: 0.6rem 0;
+}
+.form-check-input:checked {
+    background-color: #19ce65;
+    border-color:  #19ce65;
+}
+.mbl-filter {
+    display: block;
+    position: fixed;
+    left: -55px;
+    top: 50%;
+    z-index: 1000;
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+.mbl-filter .mob_fliter_icon {
+    background: #19ce65;
+    border: none;
+    color: #fff;
+    padding: 4px 40px;
+    font-size: 1rem;
+}
+
+/* ================ docters e ================= */
+
+/* ================ video s ================= */
+
+.video-section {
+    padding: 6.25rem 0;
+    background: #FAFAFA;
+}
+
+/* ================ video s ================= */
+
+
+/* ================ Newsroom s ================= */
+
+.news-section .slick-initialized .slick-slide:nth-child(odd) {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+}
+.news-section .news-wrap:nth-child(odd) img {
+    border-radius: 10px 10px 0 0;
+}
+
+/* ================ Newsroom e ================= */
+
+/* ================ mobile-clinic s ================= */
+
+.mobile-clinic {
+    padding: 6.25rem 0;
+    background: #f5fdf9;
+}
+.mobile-clinic img {
+    width: 100%;
+    border-radius: 22px;
+    margin-top: 0;
+}
+
+/* ================ mobile-clinic s ================= */
+
+.newsroom iframe {
+    width: 100%;
+    height: 500px;
+    display: block;
+    margin-bottom: 1rem;
+}
+.newsroom-details .admin-date {
+    color: #878787;
+    font-size: 14px;
+}
+.newsroom-details .admin-date span{
+    margin-right:1rem;
+}
+.news-recent-post .post_item {
+    display: flex;
+}
+.news-recent-post .post_item img {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 6px;
+}
+    .news-recent-post .post_item p {
+        color: #878787;
+        font-size: 14px;
+    }
+    .newsroom h2 {
+        font-size: 2rem;
+    }
+.news-recent-post .post_item .media-body {
+    margin-left: 1rem;
+}
+    .news-recent-post .post_item .media-body h4{
+        font-size:1rem;
+    }
+    .news-recent-post .post_item a {
+        text-decoration:none;
+    }
+    .news-recent-post h3{
+        margin-bottom:1rem;
+    }
+.news-recent-post .media.post_item {
+    margin-bottom: 1rem;
+}
+.not-found {
+    align-items: center;
+    justify-content: center;
+    background: #fafafa;
+    display: inline-flex;
+    border-radius: 6px;
+    border: 1px solid #eee;
+    padding: 1rem 2rem;
+    width: 100%;
+}
+.not-found p {
+    color: #ce1620;
+    font-size: 1.2rem;
+    margin-left:1rem;
+    margin-bottom:0;
+}
+
+
+
+
+
+
+
+/* ================ ruff s ================= */
+
+.contact-us-area .address-items .info li em {
+    background: #f6f6f6;
+    border: 1px solid #e7e7e7;
+    border-radius: 50%;
+    color: #18c460;
+    font-size: 20px;
+    height: 50px;
+    line-height: 48px;
+    margin-bottom: 15px;
+    text-align: center;
+    width: 50px;
+}
+
+.news-section .news-wrap:nth-child(even) img {
+    border-radius: 0 0 10px 10px;
+}
+
+footer .container {
+    padding-bottom: 6rem;
+}
+
+.toggle-top {
+    background: #19ce65;
+}
+
+.news-section .news-wrap span {
+    display: flex;
+}
+
+    .news-section .news-wrap span span {
+        margin-left: 1rem;
+    }
+
+.dropdown-menu[data-bs-popper] {
+    border: unset;
+    width: 300px;
+    border-bottom: 3px solid #19ce65;
+    line-height: 26px;
+}
+
+header .navbar .dropdown-item.active, .dropdown-item:active {
+    color: #fff !important;
+    text-decoration: none;
+    background-color: #19ce65;
+}
+
+.service-single p {
+    display: -webkit-box;
+    -webkit-line-clamp: 6;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.desktop-header .navbar-brand {
+    width: 90px;
+    height: 100px;
+}
+
+.gallery img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+.news-wrap p {
+    display: -webkit-box;
+    -webkit-line-clamp: 6;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.blog-single .date-head label {
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.blog-single .date-head {
+    padding-right: 1rem;
+}
+
+    .blog-single .date-head p {
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+
+.gallery .right-portion-image img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+footer .footer-links li {
+    padding: 1rem 2rem;
+}
+
+.contact-us-area .address-items .info li span a {
+    color: #333;
+    text-decoration: none;
+}
+
+/* ================ ruff e ================= */
+
+
+
+/* ================ media s ================= */
+
+
+@media (min-width: 1200px) {
+    .mbl-filter{
+        display: none;
+    }
+}
+
+@media (max-width: 1199.98px) {
+    .doctors-filter{
+        display: none;
+    }
+    .mobile-clinic {
+        padding: 2rem 0;
+        background: #f5fdf9;
+    }
+    .mobile-clinic img {
+        margin-top: 30px;
+    }
+    .sreedhareeyam-our-team {
+        padding: 2rem 0;
+    }
+
+    .our-vision-mission {
+        padding: 2rem 0;
+    }
+
+    .recognition {
+        padding: 2rem 0;
+    }
+    .news-recent-post {
+        margin-top: 40px;
+        border-top: 1px solid #f2f2f2;
+        padding-top: 40px;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .contact-us-area .col-lg-4.address .address-items {
+        margin-top: 2rem;
+        padding-left: unset;
+    }
+    .rooms .room {
+        margin-bottom: 2rem;
+    }
+    .doctors-innerpage {
+        padding: 2rem 0;
+    }
+    .newsroom iframe {
+        height: 350px;
+    }
+
+    .news-recent-post {
+        margin-top: 1rem;
+    }
+
+
+    .gallery .col-lg-3 {
+        width: 33.33%;
+        max-width: 33.33%;
+    }
+
+    .gallery .right-portion-image img {
+        height: 200px;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .aboutus {
+        border-bottom: unset;
+        margin-bottom: unset;
+    }
+    .newsroom h2 {
+        font-size: 1.3rem;
+    }
+    .team-wrap label {
+        font-size: 15px;
+    }
+    .team-wrap span {
+        font-size: 14px;
+        padding-bottom: 1rem;
+    }
+    .common-lists li {
+        font-size: 0.8125rem;
+    }
+    .aboutus.eye-of-ayurveda p.bold {
+        font-weight: 500;
+        font-size: 1rem;
+    }
+    .doctors-innerpage .team-wrap{
+        max-width: 250px;
+    }
+    .team-wrap {
+        padding: 0;
+    }
+    .search-wrap .formsearch {
+        width: 100%;
+    }
+    .inner-bannerarea {
+        height: 12rem;
+    }
+    .not-found {
+        flex-wrap: wrap;
+        margin: 1rem 0;
+    }
+    .not-found p {
+        display: block;
+        min-width: 100%;
+        font-size:14px;
+    }
+    .breadcrumb-wrapper .breadcrumb li{
+        font-size:14px;
+    }
+
+
+    .gallery .col-lg-3 {
+        width: 50%;
+        max-width: 50%;
+    }
+
+    .treatments-dtls {
+        padding: 2rem 0 !important;
+    }
+
+        .treatments-dtls .img-fluid {
+            margin-bottom: 1rem;
+        }
+
+        .treatments-dtls.bg-grey-light .img-fluid {
+            margin-top: 1rem;
+        }
+
+    footer .container {
+        padding-bottom: 2rem;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .contact-us-area .col-lg-8.contact-form {
+        padding: 0rem 1rem 1rem;
+        border: unset;
+    }
+}
+
+
+/* ================ media e ================= */
