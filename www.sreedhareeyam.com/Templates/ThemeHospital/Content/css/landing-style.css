@@ -3,17 +3,17 @@
 .landing-banner-contact {
     padding: 6rem 0;
     background-size: cover !important;
-    background: #19ce65!important;
+    background:rgb(22, 70, 173)!important;
 }
 .landing-banner-text {
     padding: 1rem;
-    background: linear-gradient(180.06deg, #00a947 .05%, #117c3e 85.38%);
+    background: linear-gradient(180.06deg,rgb(64, 125, 200) .05%,rgb(27, 53, 199) 85.38%);
 }
     .landing-banner-text label {
         font-size: 1.2rem;
         font-weight: 600;
         color: #ffd464;
-        background: #117c3e;
+        background:rgb(17, 19, 124);
         padding: 0px 16px;
         border-radius: 6px;
         margin-bottom: 6px;
@@ -22,7 +22,7 @@
         margin-bottom:0;
     }
 .sreedhareeyam-place-wrap {
-    background: #19ce65;
+    background:rgb(25, 55, 206);
     border-radius: 20px;
     color: #fff;
     height: 100%;
@@ -84,7 +84,7 @@
         padding: 6.25rem 0;
     }
     .flagship-hospital-text {
-        background: #19ce65;
+        background:rgb(25, 37, 206);
         width: 100%;
         height: 100%;
         display: flex;

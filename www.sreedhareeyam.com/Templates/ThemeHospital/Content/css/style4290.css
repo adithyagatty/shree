@@ -8,7 +8,7 @@ h2 {
 .sub,
 h1 span,
 h2 span {
-    color: #19ce65;
+    color:rgb(23, 25, 150);
 }
 .banner-area .homebanner .slick-dots li button::before,
 .branch-location::before,
@@ -129,7 +129,7 @@ header {
 header .btn--primary {
     padding: 0 2rem;
     border: none;
-    background: linear-gradient(180.06deg, #19ce65 0.05%, #117c3e 85.38%);
+    background: linear-gradient(180.06deg,rgb(25, 76, 206) 0.05%,rgb(21, 28, 177) 85.38%);
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -181,7 +181,7 @@ header .navbar li a {
     font-size: 17px;
 }
 header .navbar li a.active {
-    color: #19ce65 !important;
+    color:rgb(25, 79, 206) !important;
 }
 .offcanvas.offcanvas-start{
     border-right:none;
@@ -216,7 +216,7 @@ header .navbar li a.active {
 }
 .call-emeregency span {
     font-size: 11px;
-    color: #19ce65;
+    color:rgb(25, 70, 206);
     font-weight: 500;
 }
 @media only screen and (max-width: 1399.98px) {
@@ -336,7 +336,7 @@ header .navbar li a.active {
     width: 50px;
 }
 .banner-area .homebanner .slick-dots li.slick-active button::before {
-    background: #19ce65;
+    background:rgb(25, 79, 206);
     width: 50px;
     opacity: 1;
 }
@@ -498,7 +498,7 @@ header .navbar li a.active {
     font-weight: 600;
 }
 .doctors .single .desig {
-    color: #19ce65;
+    color:rgb(25, 67, 206);
     text-transform: uppercase;
     margin-bottom: 0.6rem;
     display: block;
@@ -564,7 +564,7 @@ header .navbar li a.active {
     -webkit-transition: all 0.4s ease;
 }
 .service-single .service-text label a:hover {
-    color: #19ce65;
+    color:rgb(25, 37, 206);
 }
 .formsearch .btn i,
 .our-network .sub,
@@ -622,7 +622,7 @@ header .navbar li a.active {
     transition: all 0.4s ease;
 }
 .service-single .more:hover {
-    background: #19ce65;
+    background:rgb(25, 76, 206);
 }
 .service-single .more:hover img {
     -webkit-filter: brightness(0) invert(1);
@@ -709,7 +709,7 @@ hr {
 .our-network {
     padding: 6.25rem 0;
     overflow-x: hidden;
-    background: #19ce65;
+    background:rgb(25, 91, 206);
 }
 .branch-location,
 .our-network .formsearch input {
@@ -753,7 +753,7 @@ hr {
     border-radius: 10px;
 }
 .branch-location label {
-    color: #19ce65;
+    color:rgb(25, 64, 206);
     position: relative;
 }
 .branch-location big {
@@ -771,7 +771,7 @@ hr {
 .branch-location .ip-op {
     position: absolute;
     right: 0;
-    background: #19ce65;
+    background:rgb(25, 76, 206);
     color: #fff;
     border-radius: 10px 0 0 10px;
     width: 100px;
@@ -792,7 +792,7 @@ hr {
     justify-content: center;
 }
 .branch-location a {
-    color: #19ce65;
+    color:rgb(25, 88, 206);
     font-weight: 500;
     text-decoration: none;
     position: relative;
@@ -960,7 +960,7 @@ hr {
     }
 }
 .news-section .news-wrap span {
-    color: #19ce65;
+    color:rgb(25, 43, 206);
     font-size: 0.9375rem;
     margin-bottom: 0.6rem;
     display: block;
@@ -971,7 +971,7 @@ hr {
     }
 }
 .news-section .news-wrap a {
-    color: #19ce65;
+    color:rgb(25, 46, 206);
     font-size: 0.875rem;
     font-weight: 600;
     text-decoration: none;
@@ -1092,7 +1092,7 @@ hr {
     overflow: hidden;
 }
 .blog-single a {
-    color: #19ce65;
+    color:rgb(25, 64, 206);
     text-decoration: none;
     font-weight: 500;
 }
@@ -1173,7 +1173,7 @@ hr {
     padding: 6.25rem 0;
 }
 .toggle-top {
-    background: #19CE65;
+    background:rgb(25, 61, 206);
     position: fixed;
     right: 0;
     bottom: 0;
@@ -1442,7 +1442,7 @@ footer .footer-links li a {
     color: #fff;
 }
     footer .footer-links li a:hover {
-        color: #19ce65 !important;
+        color:rgb(25, 58, 206) !important;
     }
 @media only screen and (max-width: 767.98px) {
     footer .footer-links li {
@@ -1478,10 +1478,10 @@ footer .footer-menu li a {
     display: block;
 }
     footer .footer-menu li a:hover {
-        color: #19ce65 !important;
+        color:rgb(25, 67, 206) !important;
     }
 .footer-menu li h5 {
-    color: #19ce65;
+    color:rgb(40, 25, 206);
 }
 .footer-menu-wrapper,
 .social-media-new {
@@ -1507,7 +1507,7 @@ footer .footer-menu li a {
     text-decoration: none;
 }
 .bottom-copyright p a:hover {
-    color: #19ce65;
+    color:rgb(25, 67, 206);
 }
 .social-media-new {
     padding-left: 0;
@@ -1551,7 +1551,7 @@ footer .footer-menu li a {
 .call-strip {
     position: absolute;
     right: 0;
-    background: #19ce65;
+    background:rgb(25, 64, 206);
     height: 57px;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -1716,11 +1716,11 @@ section.inner-bannerarea::before {
 }
 .breadcrumb-wrapper .breadcrumb li a {
     display: inline-block;
-    color: #19ce65;
+    color:rgb(25, 43, 206);
     text-decoration: none;
 }
 .our-vision-mission {
-    background: #19ce65;
+    background:rgb(25, 97, 206);
     padding: 6.25rem 0;
     color: #fff;
 }
@@ -1733,7 +1733,7 @@ section.inner-bannerarea::before {
     }
 }
 .green {
-    color: #19ce65;
+    color:rgb(25, 64, 206);
 }
 .videos-area-lists li::before {
     background: url(../img/vid.svg) no-repeat;
@@ -1862,7 +1862,7 @@ section.inner-bannerarea::before {
 }
 .back-btn {
     text-decoration: none;
-    color: #17c05e;
+    color:rgb(23, 57, 192);
     font-weight: 500;
     border: 1px solid;
     display: inline-block;
@@ -2068,7 +2068,7 @@ section.inner-bannerarea::before {
     background: #f6f6f6;
     border: 1px solid #e7e7e7;
     border-radius: 50%;
-    color: #18c460;
+    color:rgb(24, 27, 196);
     font-size: 20px;
     height: 50px;
     line-height: 48px;
@@ -8499,7 +8499,7 @@ section.inner-bannerarea::before {
 }
 
 .newsroom span {
-    color: #19CE65;
+    color:rgb(25, 43, 206);
     font-style: italic;
     font-size: .8125rem;
 }
@@ -8513,7 +8513,7 @@ section.inner-bannerarea::before {
 
 .newsroom a {
     font-size: .875rem;
-    color: #19CE65;
+    color:rgb(25, 55, 206);
     font-weight: 600;
     text-decoration: none;
 }
@@ -10269,18 +10269,18 @@ section.inner-bannerarea::before {
     font-weight: 500;
 }
 .btn--primary {
-    background: #19ce65;
+    background:rgb(40, 25, 206);
 }
 .btn--secondary {
     background: #fff;
     border-radius: 4px;
     font-size: 16px;
-    color: #19ce65;
+    color:rgb(25, 55, 206);
 }
 .btn--green--border {
-    border: 1px solid #138f0e;
+    border: 1px solidrgb(11, 17, 133);
     background: 0 0;
-    color: #138f0e;
+    color:rgb(31, 14, 143);
 }
 @media (max-width: 1199.98px) {
     .slick-slider button.slick-prev {
@@ -10344,7 +10344,7 @@ section.inner-bannerarea::before {
 }
 .btn--green,
 .btn--secondary:hover {
-    background: #19ce65;
+    background:rgb(25, 46, 206);
     color: #fff;
 }
 .btn--blue--border:hover,
@@ -10372,14 +10372,14 @@ section.inner-bannerarea::before {
 /*# cms style s */
 
 .testimonial-section .photo .client-photo {
-    border: 3px solid #19ce65;
+    border: 3px solidrgb(25, 64, 206);
 }
 
 .video-wrap.room span {
     display: block;
     margin: 1rem 0;
     font-size: 1.125rem;
-    color: #19ce65;
+    color:rgb(25, 76, 206);
     font-weight: 600;
 }
 
@@ -10438,7 +10438,7 @@ li.nav-item.dropdown.ktm-mega-menu {
 }
 .floated-button-booking.btn--primary {
     position: fixed;
-    background: linear-gradient(180.06deg, #19ce65 0.05%, #117c3e 85.38%);
+    background: linear-gradient(180.06deg,rgb(42, 55, 157) 0.05%,rgb(13, 55, 207) 85.38%);
     font-weight: 500;
     bottom: -1px;
     width: calc( 100% - 28px );
@@ -10487,7 +10487,7 @@ li.nav-item.dropdown.ktm-mega-menu {
             padding: 0.4rem 0;
         }
 .footer-menu h5 {
-    color: #19CE65;
+    color:rgb(25, 31, 206);
     display: block;
 }
 @media only screen and (max-width: 1199.98px) {
@@ -10500,7 +10500,7 @@ li.nav-item.dropdown.ktm-mega-menu {
         }
         .footer-menu-wrapper h5 {
             margin-bottom: 1rem;
-            color: #19CE65;
+            color:rgb(25, 25, 206);
             font-size: 1rem;
         }
     .toggle-top{
@@ -10576,7 +10576,7 @@ li.nav-item.dropdown.ktm-mega-menu {
 }
 
 .newsroom-details .admin-date span {
-    color: #19CE65 !important;
+    color:rgb(25, 70, 206) !important;
 }
 
 .gallery {
@@ -10799,7 +10799,7 @@ li.nav-item.dropdown.ktm-mega-menu {
 .our-facility .common-lists {
     background: #f5fdf9;
     padding: 1.4rem 3rem;
-    border-left: 10px solid #19ce65;
+    border-left: 10px solidrgb(25, 52, 206);
 }
 
 .box-style {
@@ -11004,7 +11004,7 @@ li.nav-item.dropdown.ktm-mega-menu {
 }
 
     .article-single .admin {
-        color: #19CE65;
+        color:rgb(25, 31, 206);
     }
 
     .article-single hr {
@@ -11171,11 +11171,11 @@ li.nav-item.dropdown.ktm-mega-menu {
 .chairman-priority {
     background: url(../../../../../cdn.sreedhareeyam.com/assets/Business/1/PageContent/1/1_6383300401411942311139330b6d.jpg?rendered=true) !important;
     background-size: cover !important;
-    border: 1px solid #5cce65;
+    border: 1px solidrgb(92, 100, 206);
 }
 
     .chairman-priority span.caption {
-        background: #19ce65;
+        background:rgb(25, 55, 206);
         color: #fff;
         padding: 0.2rem 1rem;
         display: inline-block;
@@ -11191,7 +11191,7 @@ li.nav-item.dropdown.ktm-mega-menu {
 }
 
 .contact-strip {
-    background: #14994c;
+    background:rgb(44, 20, 153);
     background: linear-gradient(180.06deg,#19ce65 0.05%,#117c3e 85.38%);
     padding: 4rem;
     border-radius: 15px;
@@ -11332,7 +11332,7 @@ li.nav-item.dropdown.ktm-mega-menu {
 .our-facility .common-lists {
     background: #f5fdf9;
     padding: 1.4rem 3rem;
-    border-left: 10px solid #19ce65;
+    border-left: 10px solidrgb(25, 49, 206);
 }
 
 .box-style {
@@ -11552,7 +11552,7 @@ li.nav-item.dropdown.ktm-mega-menu {
 }
 
     .article-single .admin {
-        color: #19CE65;
+        color:rgb(25, 34, 206);
     }
 
     .article-single hr {
