@@ -23,15 +23,16 @@ h2 span {
 }
 body {
   padding-left: 120px;
-  font-family: Poppins, sans-serif;
+  font-family: Arial, sans-serif;
 }
 .contact-us-area .address-items h4,
 .our-vision-mission h3,
 big,
 h1,
 h2 {
-  font-family: "El Messiri", sans-serif;
+  font-family: Arial, sans-serif;
 }
+
 .offcanvas-body::-webkit-scrollbar {
   width: 10px;
 }
